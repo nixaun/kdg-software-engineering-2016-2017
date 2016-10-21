@@ -141,3 +141,7 @@
 - Zenner Michaël
 	- e-mailadres: naam@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
+
+- Dandois Joren
+	- e-mailadres: Dandois.Joren@student.kdg.be
+	- github: https://github.com/Joorren/software-engineering-oplossingen.git
