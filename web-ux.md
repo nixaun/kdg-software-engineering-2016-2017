@@ -141,3 +141,6 @@
 - Zenner Michaël
 	- e-mailadres: naam@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
+- Jeremy Declerck
+	- e-mailadres: jeremy.declerck@student.kdg.be
+	- github: https://github.com/jeremydeclerck/software-engineering-oplossingen
