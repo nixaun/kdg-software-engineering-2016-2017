@@ -15,8 +15,8 @@
 	- github: https://github.com/ssssssander/software-engineering-oplossingen.git
 
 - Dandois Joren
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: Dandois.Joren@student.kdg.be
+	- github: https://github.com/Joorren/software-engineering-oplossingen.git
 
 - Declerck Jeremy
 	- e-mailadres: naam@student.kdg.be
@@ -141,7 +141,3 @@
 - Zenner Michaël
 	- e-mailadres: naam@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
-
-- Dandois Joren
-	- e-mailadres: Dandois.Joren@student.kdg.be
-	- github: https://github.com/Joorren/software-engineering-oplossingen.git
