@@ -3,8 +3,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bauwens Stefan
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: stefan.bauwens@student.kdg.be
+	- github: https://github.com/StefanBauwens/software-engineering-oplossingen
 
 - Bellekens Michael
 	- e-mailadres: naam@student.kdg.be
