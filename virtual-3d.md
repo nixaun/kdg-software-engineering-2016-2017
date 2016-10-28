@@ -91,8 +91,8 @@
 	- github: https://github.com/jordenvb/software-engineering-oplossingen.git
 
 - Van den Eynde Kilian
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: kilian.vandeneynde@student.kdg.be
+	- github: https://github.com/kilianvde/softwareopdrachten
 
 - Van Flieberge Mathieu
 	- e-mailadres: naam@student.kdg.be
