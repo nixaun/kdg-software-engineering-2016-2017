@@ -115,8 +115,8 @@
 	- github: https://github.com/ajkea/software-engineering.git
 
 - Van Loey Jonas
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jonas.vanloey@student.kdg.be
+	- github: https://github.com/jonasvanloey/yahtzee.git
 
 - Van Nimmen Niels
 	- e-mailadres: niels.vannimmen@student.kdg.be
