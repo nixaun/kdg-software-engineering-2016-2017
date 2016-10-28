@@ -63,8 +63,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Leurs Filip
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: filip.leurs@student.kdg.be
+	- github: https://github.com/FilipLeurs/software-engineering-oplossingen.git
 
 - Mijnendonckx Billy
 	- e-mailadres: billy.mijnendonckx@student.kdg.be
