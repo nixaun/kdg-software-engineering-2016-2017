@@ -79,8 +79,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Peeters Lennert
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: lennert.peeters@student.kdg.be
+	- github: https://github.com/nixaun/software-engineering-oplossingen.git
 
 - Robbe André
 	- e-mailadres: andre.robbe@student.kdg.be
